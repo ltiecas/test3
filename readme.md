@@ -6,3 +6,5 @@ this is edited by the new_branch1
 this is edited by the new_branch3
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 this is edited by the new_branch4, but remote new_branch3 actually
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+this is edited by the new_branch 5
